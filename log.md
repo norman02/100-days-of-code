@@ -15,4 +15,4 @@
 
 **Thoughts:** There's no way I am memorizing regular expressions. I should create a cheat sheet for my blog. I should also work on my blog...
 
-**link to work: [https://www.freecodecamp.org/norman02] (https://www.freecodecamp.org/norman02)
+**link to work: [https://www.freecodecamp.org/norman02](https://www.freecodecamp.org/norman02)
