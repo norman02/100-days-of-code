@@ -9,3 +9,10 @@
 **Link to work:** [grid template](https://testimonials-grid-git-norman.norman02.vercel.app/)
 
 
+### Day 2: November 17, 2020
+
+**Today's Progress**: Studied regular expressions on freeCodeCamp.com.
+
+**Thoughts:** There's no way I am memorizing regular expressions. I should create a cheat sheet for my blog. I should also work on my blog...
+
+**link to work: [https://www.freecodecamp.org/norman02] (https://www.freecodecamp.org/norman02)
