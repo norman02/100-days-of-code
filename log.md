@@ -11,8 +11,8 @@
 
 ### Day 2: November 17, 2020
 
-**Today's Progress**: Studied regular expressions on freeCodeCamp.com, studied SASS on codecademy.com
+**Today's Progress**: Studied regular expressions on freeCodeCamp.com, studied SASS on codecademy.com, added styling to grid template project.
 
 **Thoughts:** There's no way I am memorizing regular expressions. I should create a cheat sheet for my blog. I should also work on my blog...
 
-**link to work: [https://www.freecodecamp.org/norman02](https://www.freecodecamp.org/norman02)
+**link to work: [grid template](https://github.com/norman02/testimonials-grid.git)
