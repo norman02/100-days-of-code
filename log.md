@@ -16,3 +16,10 @@
 **Thoughts:** There's no way I am memorizing regular expressions. I should create a cheat sheet for my blog. I should also work on my blog...
 
 **link to work: [grid template](https://github.com/norman02/testimonials-grid.git)
+
+
+### Day 3: November 18, 2020
+
+**Today's Progress**: continued to work on SASS exercises on codecademy.com refactored my grid template project to use mixins.
+
+**link to work: [grid template](https://github.com/norman02/testimonials-grid.git)
