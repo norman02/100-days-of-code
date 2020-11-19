@@ -26,4 +26,6 @@
 
 ### Day 4: November 19, 20202
 
-**Today's Progress**: Finished the regular expression exercises on freeCodeCamp.com.
+**Today's Progress**: Finished the regular expression exercises on freeCodeCamp.com. Further refactored project to use SASS mixins;
+
+**link to work:** [grid template](https://github.com/norman02/testimonials-grid.git)
