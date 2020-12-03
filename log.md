@@ -35,3 +35,7 @@
 
 **Today's Progress**: Feeling sick, just the minimum hour today. Finished Sass exercises from Codecademy.
 
+
+### Day 6: December 3
+
+**Today's Progress**: Created a private website for my DnD campaign. No link because spoilers! Will be working on a public facing bit soon.
