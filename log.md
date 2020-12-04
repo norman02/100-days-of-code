@@ -36,6 +36,12 @@
 **Today's Progress**: Feeling sick, just the minimum hour today. Finished Sass exercises from Codecademy.
 
 
-### Day 6: December 3
+### Day 6: December 3, 2020
 
 **Today's Progress**: Created a private website for my DnD campaign. No link because spoilers! Will be working on a public facing bit soon.
+
+### Day 7: December 4, 2020 
+
+**Today's Progress:** Started another web app project from Frontend Mentors.
+
+**link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
