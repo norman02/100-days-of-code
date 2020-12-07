@@ -48,4 +48,4 @@
 
 ### Day 8: December 7, 2020
 
-**Todauy's Progress:** Finished the freeCodeCamp lessons on regular expressions. 
+**Todauy's Progress:** Finished the freeCodeCamp lessons on regular expressions. Finished CodeCademy lessons on Sass.
