@@ -45,3 +45,7 @@
 **Today's Progress:** Started another web app project from Frontend Mentors.
 
 **link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
+
+### Day 8: December 7, 2020
+
+**Todauy's Progress:** Finished the freeCodeCamp lessons on regular expressions. 
