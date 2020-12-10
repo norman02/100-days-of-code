@@ -57,3 +57,9 @@
 
 **link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
 
+
+### Day 10: December 10, 2020
+
+**Today's Progress: ** Refactored my website to use Sass 
+
+**link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
