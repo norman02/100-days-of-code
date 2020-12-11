@@ -63,3 +63,7 @@
 **Today's Progress: ** Refactored my website to use Sass 
 
 **link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
+
+### Day 11: December 11, 2020
+
+**Today's Progress: ** Spent a few hours working on my website.
