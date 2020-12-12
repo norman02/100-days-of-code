@@ -67,3 +67,7 @@
 ### Day 11: December 11, 2020
 
 **Today's Progress: ** Spent a few hours working on my website.
+
+### Day 12: December 12, 2020
+
+**Today's Progress: ** Worked on my website.
