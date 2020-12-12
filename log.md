@@ -48,26 +48,26 @@
 
 ### Day 8: December 7, 2020
 
-**Todauy's Progress:** Finished the freeCodeCamp lessons on regular expressions. Finished CodeCademy lessons on Sass.
+**Today's Progress:** Finished the freeCodeCamp lessons on regular expressions. Finished CodeCademy lessons on Sass.
 
 
 ### Day 9: December 8, 2020
 
-**Today's Progress: Begin styling web application
+**Today's Progress:** Begin styling web application
 
 **link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
 
 
 ### Day 10: December 10, 2020
 
-**Today's Progress: ** Refactored my website to use Sass 
+**Today's Progress:** Refactored my website to use Sass 
 
 **link to work:** [OfficeLite](https://github.com/norman02/Officlite-coming-soon.git)
 
 ### Day 11: December 11, 2020
 
-**Today's Progress: ** Spent a few hours working on my website.
+**Today's Progress:** Spent a few hours working on my website.
 
 ### Day 12: December 12, 2020
 
-**Today's Progress: ** Worked on my website.
+**Today's Progress:** Worked on my website.
