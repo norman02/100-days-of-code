@@ -71,3 +71,7 @@
 ### Day 12: December 12, 2020
 
 **Today's Progress:** Worked on my website.
+
+### Day 13: December 13, 2020
+
+**Today's Progress:** I finished my website.
