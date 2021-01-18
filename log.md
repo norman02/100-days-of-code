@@ -75,3 +75,9 @@
 ### Day 13: December 13, 2020
 
 **Today's Progress:** I finished my website.
+
+### Day 14: Jaunuary 18, 2021
+
+**Today's Progress:** I worked on algorithms on freeCodeCamp.
+
+**Link to work: ** https://www.freecodecamp.org/norman02
