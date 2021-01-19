@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 19, 2021
+
+**Today's Progress**: Started learning node.js, set up an express server.
+
 ### Day 1: November 16, 2020
 
 **Today's Progress**: Begin styling mobile version of app.
