@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 28, 2021
+
+**Today's Progress**: I finished learning the basics of node.js and express. I've set up an express server to handle GET requests. Next step will be handling other request types. 
+
 ### Day 15: January 19, 2021
 
 **Today's Progress**: Started learning node.js, set up an express server.
