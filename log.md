@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: Januray 29, 2021
+
+**Today's Progress**: I continued to work on my express server creating post, put, and delete methods. I also worked on a new Frontend Mentor project, adding basic mobile design.
+
+**Link to work:** [pod-requst-access-landing-page] (https://github.com/norman02/pod-request-access-landing-page)
+
 ### Day 16: January 28, 2021
 
 **Today's Progress**: I finished learning the basics of node.js and express. I've set up an express server to handle GET requests. Next step will be handling other request types. 
