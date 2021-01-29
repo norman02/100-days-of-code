@@ -4,7 +4,7 @@
 
 **Today's Progress**: I continued to work on my express server creating post, put, and delete methods. I also worked on a new Frontend Mentor project, adding basic mobile design.
 
-**Link to work:** [pod-requst-access-landing-page] (https://github.com/norman02/pod-request-access-landing-page)
+**Link to work:** [pod-requst-access-landing-page](https://github.com/norman02/pod-request-access-landing-page)
 
 ### Day 16: January 28, 2021
 
