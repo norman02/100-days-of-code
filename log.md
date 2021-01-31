@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: Januray 31, 2021
+
+**Today's Progress**: I finished the mobile design for my project.
+
+**Link to work:** [pod-requst-access-landing-page](https://github.com/norman02/pod-request-access-landing-page)
+
 ### Day 17: Januray 29, 2021
 
 **Today's Progress**: I continued to work on my express server creating post, put, and delete methods. I also worked on a new Frontend Mentor project, adding basic mobile design.
