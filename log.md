@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: Febuary 2, 2021
+
+**Today's Progress**: Made a couple tweaks to mobile desing, refactored Sass to use media mixins. Started work on responsive design.
+
+**Link to work:** [pod-requst-access-landing-page](https://github.com/norman02/pod-request-access-landing-page)
+
+
+
 ### Day 18: Januray 31, 2021
 
 **Today's Progress**: I finished the mobile design for my project.
