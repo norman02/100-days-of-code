@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 11, 2021
+
+**Today's Progress**: Fixed the bug in my tablet design.
+
+**Link to work:** [pod-requst-access-landing-page](https://github.com/norman02/pod-request-access-landing-page)
+
 ### Day 20: February 5, 2021
 
 **Today's Progress**: Added responsive design for tablets.
