@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 14, 2021
+
+**Today's Progress**: Finsihed the frontend desing for my project.
+
+**Link to work:** [pod-requst-access-landing-page](https://github.com/norman02/pod-request-access-landing-page)
+
 ### Day 21: February 11, 2021
 
 **Today's Progress**: Fixed the bug in my tablet design.
