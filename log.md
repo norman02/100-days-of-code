@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 15, 2021
+
+**Today's Progress**: Created a script to validate email address format.
+
+**Link to work:** [email-verification-script](https://github.com/norman02/email-verification-script)
+
 ### Day 22: February 14, 2021
 
 **Today's Progress**: Finsihed the frontend desing for my project.
