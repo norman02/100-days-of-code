@@ -2,7 +2,7 @@
 
 ### Day 23: February 15, 2021
 
-**Today's Progress**: Created a script to validate email address format.
+**Today's Progress**: Created a script to validate email address format. Added verification script to app. App is complete. 
 
 **Link to work:** [email-verification-script](https://github.com/norman02/email-verification-script)
 
