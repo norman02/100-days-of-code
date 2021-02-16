@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 16, 2021
+
+**Today's Progress**: I'm starting to practice React by building a FAQ appp.
+
+**Link to work:** [faq-accordian-card](https://github.com/norman02/faq-accordian-card)
+
 ### Day 23: February 15, 2021
 
 **Today's Progress**: Created a script to validate email address format. Added verification script to app. App is complete. 
