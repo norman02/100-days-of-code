@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 17, 2021
+
+**Today's Progress**: I completed the mobile design for my faq-accordian-card. Refactored the JS so questions are mapped from an array.
+
+**Link to work:** [faq-accordian-card](https://github.com/norman02/faq-accordian-card)
+
+
+
 ### Day 23: February 16, 2021
 
 **Today's Progress**: I'm starting to practice React by building a FAQ appp.
